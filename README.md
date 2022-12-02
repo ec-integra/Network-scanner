@@ -1,5 +1,9 @@
 # EC-ENTEGRA
 ![176a12e4-7bcb-4015-8b15-6ab9d2d9bff5](https://user-images.githubusercontent.com/116355531/197189318-a3ea1f24-934b-42fb-92e3-62e385c18d02.jpg)
+# Авторы
+1. [Басан Елена Сергеевна](https://github.com/lennylenny161), контакты: ebasan@sfedu.ru
+2. Басан Александр Сергеевич, контакты: deb@ec-integra.ru
+3. [Рязанов Максим Сергеевич](https://github.com/Entarudin), контакты: riazanov@sfedu.ru
 ## Описание
 NetworkScanner - это программа, которая сканирует информацию о локальной сети, и всю полезную информацию о хосте, с которого он запущен
 ## Функционал
